@@ -23,5 +23,5 @@ Etl using databricks
 
 How to architectect better data systems
 
-📫 Here's how you can reach me: https://x.com/Rachitc11, rachit.jb77@gmail.com
-
+📫 Here's how you can reach me:- [Twitter/X](https://x.com/Rachitc11)
+- 📧 rachit.jb77@gmail.com
