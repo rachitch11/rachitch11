@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Rachit
-- 👀 I’m interested in Data Science and Engineering
-- 🌱 I’m currently learning big data Technologies and learninng to manage piplines end to end 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at rachit.jb77@gmail.com ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: ...
+Hello, I am Rachit 👋
+Thanks for stopping by. Here's a bit about me
+😄 My pronouns are: He/His/Him
+🔭 I’m currently working as a freelance python developer and in digital marketing domain  That means...
+👯 I'm always open for freelance gigs and contract based opportunitites
+💬 I'm looking to collaborate and create some cool content that we can share with the community
+🤘 You can find various data engineering projects on my profile
+🧑🏻‍🏫 I am currenly learning
+Exporing Modern Data Stack (dbt, Airbyte, Databricks)
+Azure Cloud 
+Etl using databricks
+How to architectect better data systems
+📫 Here's how you can reach me: https://x.com/Rachitc11, rachit.jb77@gmail.com
 
-<!---
-rachitch11/rachitch11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
