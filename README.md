@@ -23,7 +23,7 @@ Etl using databricks
 
 How to architectect better data systems
 
-Building AI ML LLM Based apps for solving real world problems through machine learning algorithms handling ened to end and deploying them live for real users
+Building AI ML LLM Based apps for solving real world problems through machine learning algorithms handling end to end and deploying them live for real users
 
 📫 Here's how you can reach me:- [Twitter/X](https://x.com/Rachitc11)
 - 📧 rachit.jb77@gmail.com
