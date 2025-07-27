@@ -1,29 +1,31 @@
-Hello, I am Rachit 👋
+# Hello, I am Rachit 👋
 
 Thanks for stopping by. Here's a bit about me
 
 😄 My pronouns are: He/His/Him
 
-🔭 I’m  a  python developer and  also doing gigs in Data Analysis  That means...
+🔭 I’m a Python developer and also doing gigs in **Data Analysis** and **AI Product Development**. That means...
 
-👯 I'm always open for freelance gigs and contract based opportunitites
+👯 I'm always open for freelance gigs and contract-based opportunities
 
 💬 I'm looking to collaborate and create some cool content that we can share with the community
 
-🤘 You can find various data engineering projects on my profile
+🤘 You can find various **data engineering** and **AI-powered applications** on my profile
 
-🧑🏻‍🏫 I am currenly learning
+🧑🏻‍🏫 I am currently learning
 
+- Exploring Modern Data Stack (dbt, Airbyte, Databricks)  
+- Azure Cloud  
+- ETL using Databricks  
+- How to architect better data systems  
+- Building **AI/ML/LLM-based apps** to solve real-world problems using GenAI, LangChain, Streamlit, and OpenAI  
+- Handling full-stack AI workflows: from prompt engineering & OCR to dashboard UI, user auth, and cloud deployment  
+- Implementing apps like:  
+  - 🧠 Resume Analyzer (JD matching via GPT + PyPDF)  
+  - 🏥 Medical Report Analyzer (Health PDF → Trend + Insight)  
+  - 📈 AI Market Analyst (News + Stock Insights via LLMs)  
+  - ☁️ Weather ETL Dashboard (modular ETL with live charts)  
 
-Exporing Modern Data Stack (dbt, Airbyte, Databricks)
-
-Azure Cloud 
-
-Etl using databricks
-
-How to architectect better data systems
-
-Building AI ML LLM Based apps for solving real world problems through machine learning algorithms handling end to end and deploying them live for real users
-
-📫 Here's how you can reach me:- [Twitter/X](https://x.com/Rachitc11)
+📫 Here's how you can reach me:  
+- [Twitter/X](https://x.com/Rachitc11)  
 - 📧 rachit.jb77@gmail.com
