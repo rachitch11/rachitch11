@@ -21,10 +21,12 @@ Thanks for stopping by. Here's a bit about me
 - Building **AI/ML/LLM-based apps** to solve real-world problems using GenAI, LangChain, Streamlit, and OpenAI  
 - Handling full-stack AI workflows: from prompt engineering & OCR to dashboard UI, user auth, and cloud deployment  
 - Implementing apps like:  
-  - 🧠 Resume Analyzer (JD matching via GPT + PyPDF)  
+  - 📈 AI Market Analyst (News + Stock Insights via LLMs)
+  - 🧠 Resume Analyzer (JD matching via GPT + PyPDF)
+  - 🏥 Text TO SQL genrator 
   - 🏥 Medical Report Analyzer (Health PDF → Trend + Insight)  
-  - 📈 AI Market Analyst (News + Stock Insights via LLMs)  
-  - ☁️ Weather ETL Dashboard (modular ETL with live charts)  
+    
+    
 
 📫 Here's how you can reach me:  
 - [Twitter/X](https://x.com/Rachitc11)  
