@@ -4,7 +4,7 @@ Thanks for stopping by. Here's a bit about me
 
 😄 My pronouns are: He/His/Him
 
-🔭 I’m a Python developer and also doing gigs in **Data Analysis** and **AI Product Development**. That means...
+🔭 I’m a Python developer and also doing gigs in **AI Product Development**. That means...
 
 👯 I'm always open for freelance gigs and contract-based opportunities
 
