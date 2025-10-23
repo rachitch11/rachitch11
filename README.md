@@ -25,7 +25,7 @@ Thanks for stopping by. Here's a bit about me
   - 🧠 Resume Analyzer (JD matching via GPT + PyPDF)
   - 🏥 Text TO SQL genrator 
   - 🏥 Medical Report Analyzer (Health PDF → Trend + Insight)  
-    
+    (all repos for these projects are private)
     
 
 📫 Here's how you can reach me:  
