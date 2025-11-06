@@ -22,7 +22,7 @@ Implementing apps like:
   - 🧠 Resume Analyzer (JD matching via GPT + PyPDF) — [**Live Demo**](https://resumeanalyzerbot.streamlit.app/)  
   - 🏥 Medical Report Analyzer (Health PDF → Trend + Insight) — [**Live Demo**](https://medicalreporanalyzer.streamlit.app/)  
   - 🌦️ Weather Data ETL Dashboard — [**Live Demo**](https://weatheretldashboard.streamlit.app/)  
-  - 🧩 Text TO SQL Generator *(Coming Soon)*  
+  - 🌦️ Climate Awarness Dashboard — [**Live Dashboard**](https://huggingface.co/spaces/rachit7766/climate_awarness_dashbord)  
 
 (all repos for these projects are private)  
 
