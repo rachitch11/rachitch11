@@ -18,11 +18,11 @@ Building **AI/ML/LLM-based apps** to solve real-world problems using GenAI, Lang
 Handling full-stack AI workflows: from prompt engineering & OCR to dashboard UI, user auth, and cloud deployment  
 
 Implementing apps like:  
-  - 📈 AI Market Analyst (News + Stock Insights via LLMs) — [**Live Demo**](https://ai-market-analyst.streamlit.app/)  
-  - 🧠 Resume Analyzer (JD matching via GPT + PyPDF) — [**Live Demo**](https://resumeanalyzerbot.streamlit.app/)  
+  - 📈 AI Market Analyst (News + Stock Insights via LLMs) —     [**Live Demo**](https://ai-market-analyst.streamlit.app/)  
+  - 🧠 Resume Analyzer (JD matching via GPT + PyPDF) —          [**Live Demo**](https://resumeanalyzerbot.streamlit.app/)  
   - 🏥 Medical Report Analyzer (Health PDF → Trend + Insight) — [**Live Demo**](https://medicalreporanalyzer.streamlit.app/)  
-  - 🌦️ Weather Data ETL Dashboard — [**Live Demo**](https://weatheretldashboard.streamlit.app/)  
-  - 🌦️ Climate Awarness Dashboard — [**Live Dashboard**](https://huggingface.co/spaces/rachit7766/climate_awarness_dashbord)  
+  - 🌦️ Weather Data ETL Dashboard —                             [**Live Demo**](https://weatheretldashboard.streamlit.app/)  
+  - 🌦️ Climate Awarness Dashboard —                             [**Live Dashboard**](https://huggingface.co/spaces/rachit7766/climate_awarness_dashbord)  
 
 (all repos for these projects are private)  
 
