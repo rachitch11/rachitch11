@@ -11,10 +11,15 @@ Thanks for stopping by. Here's a bit about me
 🧑🏻‍🏫 I am currently learning  
 
 🔭  AI Engineering and building real-world AI-powered applications.
+
 🚀 Full-Stack Developer with a strong focus on scalable systems and intelligent applications.
+
 🧠 Exploring LLMs, Agentic workflows, RAG pipelines, and deep learning.
+
 📚 Actively learning system design and high-level architecture.
+
 💼 Open to Software Engineer / AI Engineer roles.
+
 🔭  Exploring Modern Data Stack (dbt, Airbyte, Databricks)  
 🧠  Azure Cloud  
 🔭  ETL using Databricks  
