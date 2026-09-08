@@ -10,12 +10,15 @@ Thanks for stopping by. Here's a bit about me
 
 🧑🏻‍🏫 I am currently learning  
 
-Exploring Modern Data Stack (dbt, Airbyte, Databricks)  
-Azure Cloud  
-ETL using Databricks  
-How to architect better data systems  
-Building **AI/ML/LLM-based apps** to solve real-world problems using GenAI, LangChain, Streamlit, and OpenAI  
-Handling full-stack AI workflows: from prompt engineering & OCR to dashboard UI, user auth, and cloud deployment  
+🔭  AI Engineering and building real-world AI-powered applications.
+🚀 Full-Stack Developer with a strong focus on scalable systems and intelligent applications.
+🧠 Exploring LLMs, Agentic workflows, RAG pipelines, and deep learning.
+📚 Actively learning system design and high-level architecture.
+💼 Open to Software Engineer / AI Engineer roles.
+🔭  Exploring Modern Data Stack (dbt, Airbyte, Databricks)  
+🧠  Azure Cloud  
+🔭  ETL using Databricks  
+🤝 Seeking referrals for exciting opportunities.  
 
 Implementing apps like:  
   - 📈 AI Market Analyst (News + Stock Insights via LLMs) —     [**Live Demo**](https://ai-market-analyst.streamlit.app/)  
